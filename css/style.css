@@ -1,0 +1,24 @@
+.container {
+   display: flex;
+   height: 100%;
+   width: 100%;
+   align-items: center;
+   justify-content: center;
+}
+
+.calculator-body {
+    height: 350px;
+    display: flex;
+    width: 350px;
+    border: 2px solid black;
+    justify-content: center;
+}
+
+.number-display {
+    width: 90%;
+    border: solid 1px black;
+    height: 20%;
+    margin-top: 5%;
+}
+
+
