@@ -53,6 +53,10 @@
     height: 75%;
 }
 
+.display {
+    text-align: right;
+}
+
 .single-num-key {
     /* width: 3%;
     height: 3%;
