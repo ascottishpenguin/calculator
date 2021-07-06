@@ -38,6 +38,9 @@
     width: 15%;
     border: solid 2px darkblue;
     height: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
 .input-container {
@@ -51,6 +54,16 @@
     width: 100%;
     margin: 5%;
     height: 75%;
+}
+
+.operation-button {
+    width: 100%;
+    margin: 0%;
+    height: 100%;
+}
+
+.display {
+    text-align: right;
 }
 
 .single-num-key {
